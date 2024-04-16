@@ -1,11 +1,28 @@
 {
-  "name": "ljy-popup",
-  "version": "1.0.0",
+  "name": "sad-popup",
+  "private": false,
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sad-JingYang/ljy-popup.git"
+  },
+  "author": "ljy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sad-JingYang/ljy-popup/issues"
+  },
+  "homepage": "https://github.com/sad-JingYang/ljy-popup#readme",
+  "keywords": [
+    "sad-popup",
+    "popup",
+    "ljy"
+  ]
 }
