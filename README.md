@@ -45,7 +45,7 @@ npm install sad-popup
 </template>
 
 <script setup lang="ts">
-import Popup from 'popup-component';
+import Popup from 'sad-popup';
 import { ref } from 'vue';
 const openBe = ref(false);
 const openPopup = () => {
